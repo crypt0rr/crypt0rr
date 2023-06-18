@@ -7,3 +7,4 @@ Some handy stuff to have bookmarked below!
 - 👀 [Search Active Github Forks](https://saf.offsec.nl)
 - 📬 [Message Header Analyzer](https://mha.offsec.nl)
 - 🔒 [Lock Your Computer!](https://lock.offsec.nl)
+- 🔗 [Microsoft Portals List](https://msportals.offsec.nl)
