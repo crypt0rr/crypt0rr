@@ -9,3 +9,4 @@ Some handy stuff to have bookmarked below!
 - 🔒 [Lock Your Computer!](https://lock.offsec.nl)
 - 🔗 [Microsoft Portals List](https://msportals.offsec.nl)
 - 🔒 [Client-side Password Generator](https://pw.offsec.nl)
+- 👀 [Google/Github/Shodan Dork Generator](https://dork.offsec.nl)
