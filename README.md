@@ -12,4 +12,4 @@ I focus on building and maintaining open-source tools, with a particular interes
 
 - **Languages**: Python, JavaScript, Bash, Markdown
 - **Tools**: Docker, Tailscale, Git
-- **Platforms**: Linux  
+- **Platforms**: Linux, macOS
